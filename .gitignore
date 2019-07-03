@@ -1,0 +1,11 @@
+*.dll
+*.pdb
+obj/**
+bin/**
+runtimes/**
+appsettings.json
+/PostDeployScripts
+/Properties/PublishProfiles
+/Properties/launchSettings.json
+/.deployment
+/.vs/CoreBot/v15/Server/sqlite3
